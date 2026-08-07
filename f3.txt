@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 first modification f3.txt in first branch
 first modification f3.txt in master
+=======
+first modification on f3.txt in third
+>>>>>>> third
