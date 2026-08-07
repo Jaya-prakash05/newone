@@ -1,2 +1,6 @@
 first modification in f5.txt in second
+<<<<<<< HEAD
 first modification in f5.txt in master
+=======
+first modification in f5.txt in fourth
+>>>>>>> fourth
