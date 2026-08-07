@@ -1,5 +1,6 @@
 
 first modification in f1.txt in third
+<<<<<<< HEAD
 second modification in f1.txt in master
 
 
@@ -10,3 +11,6 @@ first modification in f1.txt in first
 
 second modification in f1.txt in second
 third modification in f1.txt in master
+=======
+second modification in f1.txt in third
+>>>>>>> third
