@@ -1,1 +1,2 @@
 first modification in f6.txt in second
+first modification in f6.txt in fourth
