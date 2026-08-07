@@ -1,1 +1,2 @@
  first modification in f4.txt in second
+ first modification f4.txt in master
