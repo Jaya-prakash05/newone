@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 first modification in f1.txt in second
 
+=======
+first modification in f1.txt in first
+>>>>>>> first
