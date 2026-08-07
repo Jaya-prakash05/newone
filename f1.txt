@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 first modification in f1.txt in third
 second modification in f1.txt in master
+=======
+
+first modification in f1.txt in second
+
+
+first modification in f1.txt in first
+
+second modification in f1.txt in second
+>>>>>>> second
