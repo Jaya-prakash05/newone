@@ -10,3 +10,4 @@ third modification in f1.java in master
 =======
 second modification in f1.java in third
 >>>>>>> third
+some modification
