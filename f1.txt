@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 first modification in f1.txt in first
+=======
+sbkbs
+>>>>>>> fd551b9 (jbj)
